@@ -22,7 +22,7 @@ def chooseCave():
 		#print('Which cave will you go into? (1 or 2)')
       print('Which cave will you go into? (1 or 2)') #incorrect indentation
 		#cave = input()
-	  cave= input() #incorrect indentation
+      cave= input() #incorrect indentation
 
 	#return caves
     return cave #variable misspelled, incorrect indentation
@@ -60,4 +60,3 @@ while playAgain == 'yes' or playAgain == 'y': #changed from = to ==
 	if playAgain == "no":
 		#print("Thanks for planing")
 		print("Thanks for playing") #spelling error
-
